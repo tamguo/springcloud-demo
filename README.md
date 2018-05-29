@@ -18,7 +18,7 @@
 > ![此处输入图片的描述][1]
 
 
-  [1]: https://thumbnail0.baidupcs.com/thumbnail/7858ad288ac9425c33a76e000676e0fa?fid=3105509176-250528-513647411993421&time=1527580800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-jkdyAC6QfUosM7cOPF9MNdHuOA4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3448447731338371169&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video
+  [1]: https://tangoguo.oss-cn-shanghai.aliyuncs.com/openresources/tamguo/ReapsYun.png
 
 
 后端技术选型
