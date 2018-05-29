@@ -2,7 +2,6 @@
 
 标签（空格分隔）： 微服务
 
----
 业务模块 ：
 
 > 云衣柜钱包，通证交易
@@ -12,10 +11,10 @@
 
 技术点
 
-> 核心技术为springcloud+angularjs|vuejs“全家桶”
+ 核心技术为springcloud+angularjs|vuejs“全家桶”
 
 架构图
-> ![此处输入图片的描述][1]
+ ![此处输入图片的描述][1]
 
 
   [1]: https://tangoguo.oss-cn-shanghai.aliyuncs.com/openresources/tamguo/ReapsYun.png
