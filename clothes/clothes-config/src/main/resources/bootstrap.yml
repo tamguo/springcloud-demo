@@ -1,0 +1,27 @@
+server:
+  port: 1002
+spring:
+  profiles:
+    active: subversion
+  application:
+    name: clothes-config
+  cloud:
+    config:
+      label: trunk
+      enabled: true 
+      server:
+        svn:
+          uri: http://47.96.97.211/svn/repo/config
+          username: admin
+          password: admin
+        default-label: trunk
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://127.0.0.1:1001/eureka/  #注册中心地址
+  instance:
+    hostname: localhost
+    instance-id: localhost:1002
+  
